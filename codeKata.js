@@ -1,0 +1,32 @@
+[
+    {
+        id:1,
+        name:'suwetha',
+        email:'suwetha@mail.com',
+        problems: 20
+    },
+    {
+        id:2,
+        name:'gayathri',
+        email:'gayathri@mail.com',
+        problems:25
+    },
+    {
+        id:3,
+        name:'younas',
+        email:'younas@mail.com',
+        problems:35
+    },
+    {
+        id:4,
+        name:'Ahmed',
+        email:'Ahmed@mail.com',
+        problems:80
+    },
+    {
+        id:5,
+        name:'shagul',
+        email:'shagul@mail.com',
+        problems:65
+    }
+]

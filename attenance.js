@@ -1,0 +1,37 @@
+[
+    {
+        id:1,
+        name:'suwetha',
+        email:'suwetha@mail.com',
+        attendance: '85%',
+        presentStatus:'absent'
+    },
+    {
+        id:2,
+        name:'gayathri',
+        email:'gayathri@mail.com',
+        attendance:'90%',
+        presentStatus:'absent'
+    },
+    {
+        id:3,
+        name:'younas',
+        email:'younas@mail.com',
+        attendance:'80%',
+        presentStatus:'present'
+    },
+    {
+        id:4,
+        name:'Ahmed',
+        email:'Ahmed@mail.com',
+        attendance:'95%',
+        presentStatus:'present'
+    },
+    {
+        id:5,
+        name:'shagul',
+        email:'shagul@mail.com',
+        attendance:'75%',
+        presentStatus:'present'
+    }
+]
